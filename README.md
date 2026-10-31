@@ -12,7 +12,6 @@ Página desenvolvida para apresentar a Vinheria Agnello e alguns tipos de vinhos
 - imgs
 
 ## Estrutura do projeto:
-
 checkpoint03-flexbox/
 │
 ├── css/
@@ -28,9 +27,9 @@ checkpoint03-flexbox/
 
 
 ## Integrante:
--Aline da Silva Correia (RM-576934)
+- Aline da Silva Correia (RM-576934)
 
 ## Link do projeto publicado: 
 
-- GitHub Pages:
-- Repositório:
+- GitHub Pages:  https://alinecorreiaswe.github.io/checkpoint03-flexbox/
+- Repositório: https://github.com/AlineCorreiaSWE/checkpoint03-flexbox.git
